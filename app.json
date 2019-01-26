@@ -1,6 +1,8 @@
 {
   "pages":[
-    "pages/index/index"
+    "pages/index/index",
+    "pages/about/about",
+    "pages/help/help"
   ],
   "window":{
     "backgroundTextStyle":"light",
@@ -19,13 +21,13 @@
         "selectedIconPath": "img/home-selected.png"
       },
       {
-        "pagePath": "pages/index/index",
+        "pagePath": "pages/help/help",
         "text": "帮 助",
         "iconPath": "img/help.png",
         "selectedIconPath": "img/help-selected.png"
       },
       {
-        "pagePath": "pages/index/index",
+        "pagePath": "pages/about/about",
         "text": "关 于",
         "iconPath": "img/about.png",
         "selectedIconPath": "img/about-selected.png"

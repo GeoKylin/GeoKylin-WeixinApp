@@ -1,6 +1,6 @@
 <!--index.wxml-->
 <view class='container'>
-  <image class='bg' src='../../img/bg.png' mode='aspectFill'></image>
+  <image class='bg' src='../../img/bg.jpg' mode='aspectFill'></image>
   <image class='logo' src='../../img/logo.png'></image>
   <text class='name'>GeoKylin</text>
 </view>
